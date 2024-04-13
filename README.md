@@ -13,12 +13,18 @@ Apply filters or drill down into specific data points to view detailed insights.
 Experiment with different visualizations and export options to extract actionable information.
 ## Requirements
 Web browser (Chrome, Firefox, Safari, etc.)
+
 Internet connection (for live data updates, if applicable)
+
 Compatible operating system (Windows, macOS, Linux)
+
 ## Technologies Used
 Data storage: CSV/Excel files, SQLite database (optional for larger datasets)
+
 Microsoft Power Bi Application
+
 ## Contributing
+
 We welcome contributions to enhance the Hollywood-Most-Profitable-Stories Dashboard's functionality, performance, and user experience. Please refer to the CONTRIBUTING.md file for guidelines on contributing code, reporting issues, or suggesting improvements.
 
 ## Support
@@ -26,4 +32,6 @@ For any questions, feedback, or technical assistance related to the Superstore D
 ## Power Bi Dashboard
 
 ![image_2024-04-13_163829156](https://github.com/sunil518/Hollywood-Most-Profitable-Stories/assets/127589917/9603733f-5a9f-48c1-a38c-ede602c21a0e)
+
+For more Detail Visualization in the above i have attached the power Bi Dashboard file.Thank You🤩
 
